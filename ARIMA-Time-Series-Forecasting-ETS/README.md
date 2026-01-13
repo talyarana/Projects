@@ -61,7 +61,7 @@ The analysis followed a structured forecasting pipeline:
 
 The raw time series shows **clear seasonality and long-term variation**, confirming the need for seasonal forecasting models.
 
-<img src="https://github.com/ritwik2025/Projects/blob/main/Semester%201/Business%20Statistics%20and%20Forecasting/Coursework/outcomes/production_time_series.png?raw=true" width="700"/>
+<img src="https://github.com/talyarana/Projects/blob/main/ARIMA-Time-Series-Forecasting-ETS/Outcomes/production_time_series.png" width="700"/>
 
 ---
 
@@ -73,7 +73,7 @@ Additive decomposition separates the data into:
 - **Seasonal** – recurring yearly patterns  
 - **Random** – short-term noise  
 
-<img src="https://github.com/ritwik2025/Projects/blob/main/Semester%201/Business%20Statistics%20and%20Forecasting/Coursework/outcomes/seasonal_decomposition.png?raw=true" width="700"/>
+<img src="https://github.com/talyarana/Projects/blob/main/ARIMA-Time-Series-Forecasting-ETS/Outcomes/seasonal_decomposition.png" width="700"/>
 
 This confirms strong seasonality and structural variation in production.
 
@@ -87,7 +87,7 @@ After testing multiple configurations using **AICc**, the best model selected wa
 
 This model captures both **seasonal and short-term dependencies**.
 
-<img src="https://github.com/ritwik2025/Projects/blob/main/Semester%201/Business%20Statistics%20and%20Forecasting/Coursework/outcomes/arima_forecast.png?raw=true" width="700"/>
+<img src="https://github.com/talyarana/Projects/blob/main/ARIMA-Time-Series-Forecasting-ETS/Outcomes/arima_forecast.png" width="700"/>
 
 ---
 
@@ -95,7 +95,7 @@ This model captures both **seasonal and short-term dependencies**.
 
 The **hybrid strategy** dynamically selects the better model between ETS and ARIMA based on validation error.
 
-<img src="https://github.com/ritwik2025/Projects/blob/main/Semester%201/Business%20Statistics%20and%20Forecasting/Coursework/outcomes/ets_arima_comparison.png?raw=true" width="700"/>
+<img src="https://github.com/talyarana/Projects/blob/main/ARIMA-Time-Series-Forecasting-ETS/Outcomes/ets_arima_comparison.png" width="700"/>
 
 This approach produced the **lowest forecasting error** across all test series.
 
