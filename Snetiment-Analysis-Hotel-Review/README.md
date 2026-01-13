@@ -47,7 +47,7 @@ This project addresses:
 
 A structured analytics pipeline was followed from raw text to insight generation.
 
-<img src="outcomes/methodology_flowchart.png" width="700"/>
+<img src="https://github.com/talyarana/Projects/blob/main/Snetiment-Analysis-Hotel-Review/Outcomes/methodology_flowchart.png" width="700"/>
 
 **Steps (high level):**
 
@@ -73,12 +73,12 @@ A structured analytics pipeline was followed from raw text to insight generation
 The analysis reveals a clear positive relationship between emotionally positive language in reviews and higher hotel ratings.  
 Hotels with higher average positive sentiment scores consistently achieve stronger review scores, indicating that positive customer experiences translate directly into measurable satisfaction.
 
-<img src="outcomes/positive_sentiment_vs_rating.png" width="700"/>
+<img src="https://github.com/talyarana/Projects/blob/main/Snetiment-Analysis-Hotel-Review/Outcomes/positive_sentiment_vs_rating.png" width="700"/>
 
 In contrast, negative sentiment demonstrates an even stronger influence on customer perception.  
 As negative sentiment increases, average hotel ratings decline sharply, showing that **negative experiences carry greater weight** in shaping overall customer evaluations.
 
-<img src="outcomes/negative_sentiment_vs_rating.png" width="700"/>
+<img src="https://github.com/talyarana/Projects/blob/main/Snetiment-Analysis-Hotel-Review/Outcomes/negative_sentiment_vs_rating.png" width="700"/>
 
 ---
 
@@ -102,7 +102,7 @@ As negative sentiment increases, average hotel ratings decline sharply, showing 
 - **Highest dissatisfaction theme:**  
   - *Check-in Process* → **29.5% negative sentiment**
 
-<img src="outcomes/topic_coherence_scores.png" width="700"/>
+<img src="https://github.com/talyarana/Projects/blob/main/Snetiment-Analysis-Hotel-Review/Outcomes/topic_coherence_scores.png" width="700"/>
 
 ➡️ Operational bottlenecks (especially check-in) impact satisfaction more than amenities.
 
