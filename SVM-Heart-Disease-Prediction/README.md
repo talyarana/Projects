@@ -144,16 +144,16 @@ Using **λ = 70**, the decision parameters are:
 ## 📊 Model Visualisations  
 
 ### Fig. 1 – Flowchart for the Diagnosis  
-<img src="outcomes/svm_flowchart.png" width="700"/>
+<img src="https://github.com/talyarana/Projects/blob/main/SVM-Heart-Disease-Prediction/Outcomes/svm_flowchart.png" width="700"/>
 
 ### Fig. 2 – The Generation Model of SVM  
-<img src="outcomes/svm_generation_model.png" width="700"/>
+<img src="https://github.com/talyarana/Projects/blob/main/SVM-Heart-Disease-Prediction/Outcomes/svm_generation_model.png" width="700"/>
 
 ### Graph 1 – Accuracy vs λ (Training)  
-<img src="outcomes/svm_training_accuracy.png" width="700"/>
+<img src="https://github.com/talyarana/Projects/blob/main/SVM-Heart-Disease-Prediction/Outcomes/svm_training_accuracy.png" width="700"/>
 
 ### Graph 2 – Accuracy vs λ (Test)  
-<img src="outcomes/svm_test_accuracy.png" width="700"/>
+<img src="https://github.com/talyarana/Projects/blob/main/SVM-Heart-Disease-Prediction/Outcomes/svm_test_accuracy.png" width="700"/>
 
 ---
 
