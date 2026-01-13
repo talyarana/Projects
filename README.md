@@ -20,7 +20,7 @@ Each project demonstrates **business-driven problem solving**, **data modelling*
 These projects showcase **industry-grade analytics**, **machine learning**, and **business impact**.
 
 ## 🏆 1. Hotel Review Sentiment Analytics (NLP + Business Insight)  
-**Folder:** `hotel-review-sentiment-analytics`  
+**Folder:** `Snetiment-Analysis-Hotel-Review`  
 
 Analysed **515,000+ hotel reviews across Europe** using:
 - Sentiment analysis  
@@ -35,12 +35,12 @@ Analysed **515,000+ hotel reviews across Europe** using:
 ➡ Ideal for **Data Analyst, NLP, and Customer Analytics roles**
 
 🔗 **Open Project:**  
-[`hotel-review-sentiment-analytics`](./hotel-review-sentiment-analytics)
+[`Snetiment-Analysis-Hotel-Review`](./Snetiment-Analysis-Hotel-Review)
 
 ---
 
 ## 🏆 2. Heart Disease Prediction using Machine Learning (Excel SVM)  
-**Folder:** `heart-disease-prediction-svm`  
+**Folder:** `SVM-Heart-Disease-Prediction`  
 
 Built and optimised **three Support Vector Machine models** inside **Excel Solver** to support **medical diagnosis**.
 
@@ -54,12 +54,12 @@ Key highlights:
 ➡ Perfect for **Healthcare Analytics, Machine Learning & Optimization roles**
 
 🔗 **Open Project:**  
-[`heart-disease-prediction-svm`](./heart-disease-prediction-svm)
+[`SVM-Heart-Disease-Prediction`](./SVM-Heart-Disease-Prediction)
 
 ---
 
 ## 🏆 3. Time-Series Forecasting for Manufacturing (ARIMA & ETS)  
-**Folder:** `time-series-forecasting-arima-ets`  
+**Folder:** `ARIMA-Time-Series-Forecasting-ETS`  
 
 Forecasted **glass container production** using:
 - Regression with seasonality  
@@ -72,7 +72,7 @@ Forecasted **glass container production** using:
 ➡ Strong example of **Forecasting, Supply-Chain Analytics & Statistical Modelling**
 
 🔗 **Open Project:**  
-[`time-series-forecasting-arima-ets`](./time-series-forecasting-arima-ets)
+[`ARIMA-Time-Series-Forecasting-ETS`](./ARIMA-Time-Series-Forecasting-ETS)
 
 ---
 
@@ -89,24 +89,7 @@ Segmented and predicted user behaviour using:
 ➡ Demonstrates **ML pipelines, customer segmentation & growth analytics**
 
 🔗 **Open Project:**  
-[`social-media-user-analytics`](./social-media-user-analytics)
-
----
-
-## 🏆 5. Railway Network Optimisation (Decision Support System)  
-**Folder:** `railway-network-optimization`  
-
-Built a **route optimisation system** using the **Ford–Fulkerson max-flow algorithm** in **Excel & VBA**.
-
-📌 Enables:
-- Dynamic capacity planning  
-- Bottleneck detection  
-- Route simulation  
-
-➡ Strong example of **Operations Research & Decision Support Systems**
-
-🔗 **Open Project:**  
-[`railway-network-optimization`](./railway-network-optimization)
+[`Social-Media-User-Analytics`](./Social-Media-User-Analytics)
 
 ---
 
@@ -114,13 +97,9 @@ Built a **route optimisation system** using the **Ford–Fulkerson max-flow algo
 
 | Project | Domain |
 |-------|--------|
-| 🏨 **Amsterdam Affordable Accommodation Analytics** | Housing, Pricing, Market Gaps |
-| 🧁 **Bakery Production Scheduling** | Heuristics, Metaheuristics, Operations Research |
-| 📞 **Call Centre Simulation & Optimisation** | Queueing Theory, Arena Simulation |
 | 🛒 **E-commerce Sales Analytics Dashboard** | Business Intelligence & Customer Analytics |
 | ❤️ **Heart Disease Prediction (SVM)** | Healthcare ML |
 | 🏨 **Hotel Review Sentiment Analytics** | NLP, Text Mining |
-| 🚆 **Railway Network Optimisation** | Network Flow, Decision Support |
 | 🧠 **Social Media User Analytics** | ML, Clustering, Network Science |
 | 📈 **Time-Series Forecasting** | ARIMA, ETS, Production Planning |
 
