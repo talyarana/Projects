@@ -58,14 +58,14 @@ Each user record contains:
 ## 📊 Exploratory Behaviour Analysis  
 
 ### Pair Plot – Behavioural Relationships  
-<img src="outcomes/pairplot_matrix.png" width="700"/>
+<img src="https://github.com/talyarana/Projects/blob/main/Social-Media-User-Analytics/Outcomes/pairplot_matrix.png" width="700"/>
 
 This plot shows how behavioural variables interact. **InDegree and OutDegree are positively correlated**, indicating that users who receive many interactions also tend to initiate more.
 
 ---
 
 ### Engagement vs Account Age  
-<img src="outcomes/posts_vs_account_age.png" width="700"/>
+<img src="https://github.com/talyarana/Projects/blob/main/Social-Media-User-Analytics/Outcomes/posts_vs_account_age.png" width="700"/>
 
 Newer accounts show high variability in posting behaviour, while older accounts are more stable. A cluster of highly active one-year-old users suggests strong early engagement.
 
@@ -74,14 +74,14 @@ Newer accounts show high variability in posting behaviour, while older accounts 
 ## 🧩 Unsupervised Learning  
 
 ### Elbow Method (Cluster Selection)  
-<img src="outcomes/elbow_plot.png" width="700"/>
+<img src="https://github.com/talyarana/Projects/blob/main/Social-Media-User-Analytics/Outcomes/elbow_plot.png" width="700"/>
 
 The elbow plot indicates that **two clusters** provide the best trade-off between simplicity and explanatory power.
 
 ---
 
 ### K-Means Clustering Result  
-<img src="outcomes/kmeans_clusters.png" width="700"/>
+<img src="https://github.com/talyarana/Projects/blob/main/Social-Media-User-Analytics/Outcomes/kmeans_clusters.png" width="700"/>
 
 Two clear user groups emerge:
 - **Low-activity users**  
@@ -92,7 +92,7 @@ This separation supports meaningful behavioural segmentation.
 ---
 
 ### Silhouette Validation  
-<img src="outcomes/cluster_silhouette.png" width="700"/>
+<img src="https://github.com/talyarana/Projects/blob/main/Social-Media-User-Analytics/Outcomes/cluster_silhouette.png" width="700"/>
 
 Silhouette analysis confirms that the two clusters are **well separated and internally coherent**, validating the quality of the segmentation.
 
