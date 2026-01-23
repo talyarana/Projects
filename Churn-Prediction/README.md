@@ -94,7 +94,7 @@ Each model was assessed using **Accuracy, Precision, Recall, F1-score, and ROCâ€
 - `ANN Confusion Matrix.png`  
 - `Random Forest Confusion Matrix.png`  
 - `XGBoost Confusion Matrix.png`
-- <img src="https://github.com/talyarana/Projects/blob/main/Churn-Prediction/Output/Logistic%20Regression%20Confusion%20Matrix.png" width="700"/>
+- <img src="https://github.com/talyarana/Projects/blob/main/Churn-Prediction/Output/Logistic%20Regression%20Confusion%20Matrix.png" width="400"/>
 - <img src="https://github.com/talyarana/Projects/blob/main/Churn-Prediction/Output/Decision%20Tree%20Confusion%20Matrix.png" width="700"/>
 - <img src="https://github.com/talyarana/Projects/blob/main/Churn-Prediction/Output/SVM%20Confusion%20Matrix.png" width="700"/>
 - <img src="https://github.com/talyarana/Projects/blob/main/Churn-Prediction/Output/ANN%20Confusion%20Matrix.png" width="700"/>
