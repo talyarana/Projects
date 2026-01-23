@@ -54,8 +54,8 @@ Key observations:
 - Higher churn among **short-tenure** customers  
 - Billing pressure, usage volatility, and service issues strongly associated with churn  
 
-- <img src="https://github.com/talyarana/Projects/blob/main/Churn-Prediction/Output/Churn%20Distribution.png" width="700"/>
-- <img src="https://github.com/talyarana/Projects/blob/main/Churn-Prediction/Output/Correlation%20Heatmap.png" width="700"/>
+- <img src="https://github.com/talyarana/Projects/blob/main/Churn-Prediction/Output/Churn%20Distribution.png" width="400"/>
+- <img src="https://github.com/talyarana/Projects/blob/main/Churn-Prediction/Output/Correlation%20Heatmap.png" width="400"/>
 
 ---
 
@@ -88,33 +88,27 @@ Each model was assessed using **Accuracy, Precision, Recall, F1-score, and ROC�
 ## 📈 Model Evaluation & Performance
 
 ### Confusion Matrices
-- `Logistic Regression Confusion Matrix.png`  
-- `Decision Tree Confusion Matrix.png`  
-- `SVM Confusion Matrix.png`  
-- `ANN Confusion Matrix.png`  
-- `Random Forest Confusion Matrix.png`  
-- `XGBoost Confusion Matrix.png`
 - <img src="https://github.com/talyarana/Projects/blob/main/Churn-Prediction/Output/Logistic%20Regression%20Confusion%20Matrix.png" width="400"/>
-- <img src="https://github.com/talyarana/Projects/blob/main/Churn-Prediction/Output/Decision%20Tree%20Confusion%20Matrix.png" width="700"/>
-- <img src="https://github.com/talyarana/Projects/blob/main/Churn-Prediction/Output/SVM%20Confusion%20Matrix.png" width="700"/>
-- <img src="https://github.com/talyarana/Projects/blob/main/Churn-Prediction/Output/ANN%20Confusion%20Matrix.png" width="700"/>
-- <img src="https://github.com/talyarana/Projects/blob/main/Churn-Prediction/Output/Random%20Forest%20Confusion%20Matrix.png" width="700"/>
-- <img src="https://github.com/talyarana/Projects/blob/main/Churn-Prediction/Output/XGBoost%20Confusion%20Matrix.png" width="700"/>
+- <img src="https://github.com/talyarana/Projects/blob/main/Churn-Prediction/Output/Decision%20Tree%20Confusion%20Matrix.png" width="400"/>
+- <img src="https://github.com/talyarana/Projects/blob/main/Churn-Prediction/Output/SVM%20Confusion%20Matrix.png" width="400"/>
+- <img src="https://github.com/talyarana/Projects/blob/main/Churn-Prediction/Output/ANN%20Confusion%20Matrix.png" width="400"/>
+- <img src="https://github.com/talyarana/Projects/blob/main/Churn-Prediction/Output/Random%20Forest%20Confusion%20Matrix.png" width="400"/>
+- <img src="https://github.com/talyarana/Projects/blob/main/Churn-Prediction/Output/XGBoost%20Confusion%20Matrix.png" width="400"/>
 
 
 ### ROC Curves
 
-- <img src="https://github.com/talyarana/Projects/blob/main/Churn-Prediction/Output/Logistic%20Regression%20ROC%20Curve.png" width="700"/>
-- <img src="https://github.com/talyarana/Projects/blob/main/Churn-Prediction/Output/Decision%20Tree%20ROC%20Curve.png" width="700"/>
-- <img src="https://github.com/talyarana/Projects/blob/main/Churn-Prediction/Output/SVM%20ROC%20Curve.png" width="700"/>
-- <img src="https://github.com/talyarana/Projects/blob/main/Churn-Prediction/Output/ANN%20ROC%20Curve.png" width="700"/>
-- <img src="https://github.com/talyarana/Projects/blob/main/Churn-Prediction/Output/Random%20Forest%20ROC%20Curve.png" width="700"/>
-- <img src="https://github.com/talyarana/Projects/blob/main/Churn-Prediction/Output/XGBoost%20ROC%20Curve.png" width="700"/>
+- <img src="https://github.com/talyarana/Projects/blob/main/Churn-Prediction/Output/Logistic%20Regression%20ROC%20Curve.png" width="400"/>
+- <img src="https://github.com/talyarana/Projects/blob/main/Churn-Prediction/Output/Decision%20Tree%20ROC%20Curve.png" width="400"/>
+- <img src="https://github.com/talyarana/Projects/blob/main/Churn-Prediction/Output/SVM%20ROC%20Curve.png" width="40000"/>
+- <img src="https://github.com/talyarana/Projects/blob/main/Churn-Prediction/Output/ANN%20ROC%20Curve.png" width="400"/>
+- <img src="https://github.com/talyarana/Projects/blob/main/Churn-Prediction/Output/Random%20Forest%20ROC%20Curve.png" width="400"/>
+- <img src="https://github.com/talyarana/Projects/blob/main/Churn-Prediction/Output/XGBoost%20ROC%20Curve.png" width="400"/>
 
 
 ### Model Comparison
-- <img src="https://github.com/talyarana/Projects/blob/main/Churn-Prediction/Output/Model%20Comparison.png" width="700"/>
-- <img src="https://github.com/talyarana/Projects/blob/main/Churn-Prediction/Output/Model%20Suitability.png" width="700"/>
+- <img src="https://github.com/talyarana/Projects/blob/main/Churn-Prediction/Output/Model%20Comparison.png" width="400"/>
+- <img src="https://github.com/talyarana/Projects/blob/main/Churn-Prediction/Output/Model%20Suitability.png" width="400"/>
 
 
 **Key result:**  
@@ -127,7 +121,7 @@ XGBoost achieved the strongest overall performance, offering the best trade-off 
 - GridSearchCV with **Stratified K-Fold Cross-Validation**  
 - ROC–AUC used as the optimisation metric  
 
-- <img src="https://github.com/talyarana/Projects/blob/main/Churn-Prediction/Output/Hyperparameter%20Tuning.png" width="700"/>
+- <img src="https://github.com/talyarana/Projects/blob/main/Churn-Prediction/Output/Hyperparameter%20Tuning.png" width="400"/>
 
 
 ---
@@ -142,17 +136,17 @@ XGBoost achieved the strongest overall performance, offering the best trade-off 
   - MonthlyCharges  
   - TicketsOpened  
 
-- <img src="https://github.com/talyarana/Projects/blob/main/Churn-Prediction/Output/Random%20Forest%20Feature%20Importance%20.png" width="700"/>
-- <img src="https://github.com/talyarana/Projects/blob/main/Churn-Prediction/Output/XGBoost%20Feature%20Importance.png" width="700"/>
-- <img src="https://github.com/talyarana/Projects/blob/main/Churn-Prediction/Output/Global%20SHAP%20Bar%20Plot.png" width="700"/>
-- <img src="https://github.com/talyarana/Projects/blob/main/Churn-Prediction/Output/SHAP%20Beeswarm%20Plot.png" width="700"/>
+- <img src="https://github.com/talyarana/Projects/blob/main/Churn-Prediction/Output/Random%20Forest%20Feature%20Importance%20.png" width="400"/>
+- <img src="https://github.com/talyarana/Projects/blob/main/Churn-Prediction/Output/XGBoost%20Feature%20Importance.png" width="400"/>
+- <img src="https://github.com/talyarana/Projects/blob/main/Churn-Prediction/Output/Global%20SHAP%20Bar%20Plot.png" width="400"/>
+- <img src="https://github.com/talyarana/Projects/blob/main/Churn-Prediction/Output/SHAP%20Beeswarm%20Plot.png" width="400"/>
 
 
 ### Local Interpretability
 - LIME used to explain individual churn predictions  
 - Demonstrates how billing issues, engagement decline, and service problems interact at customer level  
 
-- <img src="https://github.com/talyarana/Projects/blob/main/Churn-Prediction/Output/LIME%20Explanation.png" width="700"/>
+- <img src="https://github.com/talyarana/Projects/blob/main/Churn-Prediction/Output/LIME%20Explanation.png" width="400"/>
 
 
 ---
@@ -166,7 +160,7 @@ A **Top-20 feature model** was built using:
 
 Performance remained nearly identical to the full model, improving **interpretability and deployability**.
 
-- <img src="https://github.com/talyarana/Projects/blob/main/Churn-Prediction/Output/Feature%20Selection.png" width="700"/>
+- <img src="https://github.com/talyarana/Projects/blob/main/Churn-Prediction/Output/Feature%20Selection.png" width="400"/>
 
 
 ---
