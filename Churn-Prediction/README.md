@@ -146,7 +146,7 @@ XGBoost achieved the strongest overall performance, offering the best trade-off 
 - LIME used to explain individual churn predictions  
 - Demonstrates how billing issues, engagement decline, and service problems interact at customer level  
 
-- <img src="https://github.com/talyarana/Projects/blob/main/Churn-Prediction/Output/LIME%20Explanation.png" width="400"/>
+- <img src="https://github.com/talyarana/Projects/blob/main/Churn-Prediction/Output/LIME%20Explanation.png" width="700"/>
 
 
 ---
@@ -160,7 +160,7 @@ A **Top-20 feature model** was built using:
 
 Performance remained nearly identical to the full model, improving **interpretability and deployability**.
 
-- <img src="https://github.com/talyarana/Projects/blob/main/Churn-Prediction/Output/Feature%20Selection.png" width="400"/>
+- <img src="https://github.com/talyarana/Projects/blob/main/Churn-Prediction/Output/Feature%20Selection.png" width="700"/>
 
 
 ---
