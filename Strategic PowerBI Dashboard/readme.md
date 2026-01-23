@@ -73,7 +73,7 @@ Leading causes of death are consistent nationwide:
 - Diseases of the circulatory system  
 - Neoplasms (cancers)
 
-<img src= "https://github.com/talyarana/Projects/blob/main/Strategic%20PowerBI%20Dashboard/Output/Cause%20of%20Death%20by%20Age%20.png" width="700"/>
+<img src="https://github.com/talyarana/Projects/blob/main/Strategic%20PowerBI%20Dashboard/Output/Cause%20of%20Death%20by%20Age%20.png" width="700"/>
 
 ---
 
@@ -81,7 +81,7 @@ Leading causes of death are consistent nationwide:
 
 Across almost all NCDs and external causes, **male mortality exceeds female mortality**. This persistent gap suggests delayed healthcare-seeking behaviour and higher exposure to behavioural risk factors among males.
  
-<img src= "https://github.com/talyarana/Projects/blob/main/Strategic%20PowerBI%20Dashboard/Output/Deaths%20by%20Gender%20and%20Causes%20.png`" width="700"/>
+<img src="https://github.com/talyarana/Projects/blob/main/Strategic%20PowerBI%20Dashboard/Output/Deaths%20by%20Gender%20and%20Causes%20.png" width="700"/>
 
 ---
 
@@ -91,9 +91,9 @@ While high death volumes are concentrated in populous counties (e.g. Dublin and 
 - Mortality risk profiles are nationally consistent  
 - Healthcare service demand is spatially concentrated in urban centres  
  
-<img src= "https://github.com/talyarana/Projects/blob/main/Strategic%20PowerBI%20Dashboard/Output/Deaths%20County%20Council%20wise.png`" width="700"/>  
-<img src= "https://github.com/talyarana/Projects/blob/main/Strategic%20PowerBI%20Dashboard/Output/Occurring%20of%20Death%20.png`" width="700"/>  
-<img src= "https://github.com/talyarana/Projects/blob/main/Strategic%20PowerBI%20Dashboard/Output/Deaths%20Registered.png`" width="700"/>
+<img src="https://github.com/talyarana/Projects/blob/main/Strategic%20PowerBI%20Dashboard/Output/Deaths%20County%20Council%20wise.png" width="700"/>  
+<img src="https://github.com/talyarana/Projects/blob/main/Strategic%20PowerBI%20Dashboard/Output/Occurring%20of%20Death%20.png" width="700"/>  
+<img src="https://github.com/talyarana/Projects/blob/main/Strategic%20PowerBI%20Dashboard/Output/Deaths%20Registered.png" width="700"/>
 
 ---
 
@@ -106,8 +106,8 @@ Substance misuse patterns are highly segmented:
 
 Cocaine has emerged as a major urban substance risk, particularly in Dublin.
 
-<img src= "https://github.com/talyarana/Projects/blob/main/Strategic%20PowerBI%20Dashboard/Output/Alcohol%20treatment%20dashboard.png`" width="700"/>  
-<img src= "https://github.com/talyarana/Projects/blob/main/Strategic%20PowerBI%20Dashboard/Output/Drug%20treatment%20dashboard.png`" width="700"/>
+<img src= "https://github.com/talyarana/Projects/blob/main/Strategic%20PowerBI%20Dashboard/Output/Alcohol%20treatment%20dashboard.png" width="700"/>  
+<img src= "https://github.com/talyarana/Projects/blob/main/Strategic%20PowerBI%20Dashboard/Output/Drug%20treatment%20dashboard.png" width="700"/>
 
 ---
 
@@ -119,8 +119,8 @@ Analysis of PCRS data reveals a major policy shift:
 
 This reflects expanded access policies but raises concerns around true financial protection once patients enter the healthcare system.
 
-<img src= "https://github.com/talyarana/Projects/blob/main/Strategic%20PowerBI%20Dashboard/Output/Global%20Health%20Expenditure%20.png`" width="700"/>  
-<img src= "https://github.com/talyarana/Projects/blob/main/Strategic%20PowerBI%20Dashboard/Output/Time-series%20data%202013%2C%202021%2C%202022.png`" width="700"/>
+<img src= "https://github.com/talyarana/Projects/blob/main/Strategic%20PowerBI%20Dashboard/Output/Global%20Health%20Expenditure%20.png" width="700"/>  
+<img src= "https://github.com/talyarana/Projects/blob/main/Strategic%20PowerBI%20Dashboard/Output/Time-series%20data%202013%2C%202021%2C%202022.png" width="700"/>
 
 ---
 
@@ -133,8 +133,8 @@ Coverage analysis shows:
 
 Out-of-pocket costs (e.g. dental care, prescriptions) remain a persistent financial risk despite expanded GP access.
 
-<img src= "https://github.com/talyarana/Projects/blob/main/Strategic%20PowerBI%20Dashboard/Output/Gender%20and%20Age%20Group%20data.png`" width="700"/>  
-<img src= "https://github.com/talyarana/Projects/blob/main/Strategic%20PowerBI%20Dashboard/Output/County%20Level%20Data.png`" width="700"/>
+<img src= "https://github.com/talyarana/Projects/blob/main/Strategic%20PowerBI%20Dashboard/Output/Gender%20and%20Age%20Group%20data.png" width="700"/>  
+<img src= "https://github.com/talyarana/Projects/blob/main/Strategic%20PowerBI%20Dashboard/Output/County%20Level%20Data.png" width="700"/>
 
 ---
 
