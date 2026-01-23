@@ -100,15 +100,15 @@ Each model was assessed using **Accuracy, Precision, Recall, F1-score, and ROCâ€
 
 - <img src="https://github.com/talyarana/Projects/blob/main/Churn-Prediction/Output/Logistic%20Regression%20ROC%20Curve.png" width="400"/>
 - <img src="https://github.com/talyarana/Projects/blob/main/Churn-Prediction/Output/Decision%20Tree%20ROC%20Curve.png" width="400"/>
-- <img src="https://github.com/talyarana/Projects/blob/main/Churn-Prediction/Output/SVM%20ROC%20Curve.png" width="40000"/>
+- <img src="https://github.com/talyarana/Projects/blob/main/Churn-Prediction/Output/SVM%20ROC%20Curve.png" width="400"/>
 - <img src="https://github.com/talyarana/Projects/blob/main/Churn-Prediction/Output/ANN%20ROC%20Curve.png" width="400"/>
 - <img src="https://github.com/talyarana/Projects/blob/main/Churn-Prediction/Output/Random%20Forest%20ROC%20Curve.png" width="400"/>
 - <img src="https://github.com/talyarana/Projects/blob/main/Churn-Prediction/Output/XGBoost%20ROC%20Curve.png" width="400"/>
 
 
 ### Model Comparison
-- <img src="https://github.com/talyarana/Projects/blob/main/Churn-Prediction/Output/Model%20Comparison.png" width="400"/>
-- <img src="https://github.com/talyarana/Projects/blob/main/Churn-Prediction/Output/Model%20Suitability.png" width="400"/>
+- <img src="https://github.com/talyarana/Projects/blob/main/Churn-Prediction/Output/Model%20Comparison.png" width="700"/>
+- <img src="https://github.com/talyarana/Projects/blob/main/Churn-Prediction/Output/Model%20Suitability.png" width="700"/>
 
 
 **Key result:**  
@@ -121,7 +121,7 @@ XGBoost achieved the strongest overall performance, offering the best trade-off 
 - GridSearchCV with **Stratified K-Fold Cross-Validation**  
 - ROCâ€“AUC used as the optimisation metric  
 
-- <img src="https://github.com/talyarana/Projects/blob/main/Churn-Prediction/Output/Hyperparameter%20Tuning.png" width="400"/>
+- <img src="https://github.com/talyarana/Projects/blob/main/Churn-Prediction/Output/Hyperparameter%20Tuning.png" width="700"/>
 
 
 ---
